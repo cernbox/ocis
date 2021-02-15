@@ -51,6 +51,7 @@ var (
 		"thumbnails",
 		"web",
 		"webdav",
+		"ocis-canary",
 		//"graph",
 		//"graph-explorer",
 	}
