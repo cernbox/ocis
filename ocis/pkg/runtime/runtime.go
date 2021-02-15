@@ -50,6 +50,7 @@ var (
 		"thumbnails",
 		"web",
 		"webdav",
+		"ocis-canary",
 	}
 
 	dependants = []string{
