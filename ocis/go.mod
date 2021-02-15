@@ -8,6 +8,9 @@ require (
 	contrib.go.opencensus.io/exporter/zipkin v0.1.2
 	github.com/asim/go-micro/plugins/logger/zerolog/v3 v3.0.0-20210217182006-0f0ace1a44a9
 	github.com/asim/go-micro/v3 v3.5.1-0.20210217182006-0f0ace1a44a9
+	github.com/UnnoTed/fileb0x v1.1.4
+	github.com/cernbox/ocis-canary v0.0.0-20201208115737-084b59e999ff
+	github.com/go-test/deep v1.0.6 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00 // indirect
 	github.com/micro/cli/v2 v2.1.2
 	github.com/olekukonko/tablewriter v0.0.5
