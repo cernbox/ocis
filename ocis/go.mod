@@ -6,10 +6,10 @@ require (
 	contrib.go.opencensus.io/exporter/jaeger v0.2.1
 	contrib.go.opencensus.io/exporter/ocagent v0.7.0
 	contrib.go.opencensus.io/exporter/zipkin v0.1.2
+	github.com/UnnoTed/fileb0x v1.1.4
 	github.com/asim/go-micro/plugins/logger/zerolog/v3 v3.0.0-20210217182006-0f0ace1a44a9
 	github.com/asim/go-micro/v3 v3.5.1-0.20210217182006-0f0ace1a44a9
-	github.com/UnnoTed/fileb0x v1.1.4
-	github.com/cernbox/ocis-canary v0.0.0-20201208115737-084b59e999ff
+	github.com/cernbox/ocis-canary v0.0.0-20210302122430-2c0c73538234
 	github.com/go-test/deep v1.0.6 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00 // indirect
 	github.com/micro/cli/v2 v2.1.2
@@ -21,7 +21,7 @@ require (
 	github.com/owncloud/ocis/graph v0.0.0-20210216094451-dc73176dc62d
 	github.com/owncloud/ocis/graph-explorer v0.0.0-20210216094451-dc73176dc62d
 	github.com/owncloud/ocis/idp v0.0.0-20210216094451-dc73176dc62d
-	github.com/owncloud/ocis/ocis-pkg v0.0.0-20210216094451-dc73176dc62d
+	github.com/owncloud/ocis/ocis-pkg v0.0.0-20210226095754-4ec4dd5f77eb
 	github.com/owncloud/ocis/ocs v0.0.0-20210216094451-dc73176dc62d
 	github.com/owncloud/ocis/onlyoffice v0.0.0-20210216094451-dc73176dc62d
 	github.com/owncloud/ocis/proxy v0.0.0-20210216094451-dc73176dc62d
